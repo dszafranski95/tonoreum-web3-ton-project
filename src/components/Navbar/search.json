@@ -1,0 +1,51 @@
+[
+    {
+      "title": "News",
+      "path": "/news"
+    },
+    {
+      "title": "Tokenomy",
+      "path": "/tokenomy"
+    },
+    {
+      "title": "Whitepaper",
+      "path": "/whitepaper"
+    },
+    {
+      "title": "Roadmap",
+      "path": "/roadmap"
+    },
+    {
+      "title": "Start Mining",
+      "path": "/start"
+    },
+    {
+      "title": "Mining Guide",
+      "path": "/mine"
+    },
+    {
+      "title": "Claim Rewards",
+      "path": "/claim"
+    },
+    {
+      "title": "Boosters",
+      "path": "/boosters"
+    },
+    {
+      "title": "FAQ",
+      "path": "/faq"
+    },
+    {
+      "title": "About Us",
+      "path": "/about"
+    },
+    {
+      "title": "Contact",
+      "path": "https://twitter.com/tonoreum"
+    },
+    {
+      "title": "Customer Support",
+      "path": "/support"
+    }
+  ]
+  

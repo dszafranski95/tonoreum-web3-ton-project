@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .font-weight-400 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+  }
+  
+  .font-weight-500 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+  }
+  
+  .font-weight-600 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+  }
+  
+  .font-weight-700 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700; /* Bold */
+  }
+
+/* Add this to your CSS file */
+.search-dropdown {
+  position: absolute;
+  top: 100%; /* Position right below the input field */
+  left: 0;
+  right: 0;
+  z-index: 10;
+  padding: 0.5rem;
+  background-color: white;
+  border: 1px solid #ddd; /* Light grey border */
+  border-radius: 0.25rem; /* Slight rounding on corners */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Soft shadow for depth */
+  max-height: 300px; /* Set a max height */
+  overflow-y: auto; /* Enable scroll if content overflows */
+}
+.search-dropdown a {
+  display: block;
+  padding: 0.5rem;
+  text-decoration: none;
+  color: #333; /* Dark grey text */
+  transition: background-color 0.2s; /* Smooth transition for hover effect */
+}
+.search-dropdown a:hover {
+  background-color: #f7f7f7; /* Light grey background on hover */
+}
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  /* Other styles */
+}
+
+/* Styles for the desktop menu */
+.desktop-menu {
+  display: none;
+  /* Other styles */
+}
+
+/* Styles for the mobile menu */
+.mobile-menu {
+  display: flex;
+  flex-direction: column;
+  /* Other styles */
+}
+
+
+/* Responsive nav styles */
+@media (max-width: 768px) {
+  .navbar-toggle {
+    display: block;
+    /* Additional styles for toggle button */
+  }
+
+  .desktop-menu {
+    display: none;
+  }
+
+  .mobile-menu {
+    display: block;
+    /* Additional styles for mobile menu */
+  }
+}

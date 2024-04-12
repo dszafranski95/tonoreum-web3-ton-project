@@ -1,0 +1,57 @@
+.toggle-button {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    z-index: 20;
+    background: #000;
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    padding: 0.5rem;
+    cursor: pointer;
+  }
+  
+  .sidebar-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.5);
+    z-index: 15;
+  }
+  
+  .mobile-sidebar {
+    width: 100%;
+    position: fixed;
+    height: 100vh;
+    z-index: 10;
+    transform: translateX(-100%);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .mobile-sidebar.open {
+    transform: translateX(0);
+  }
+  .sidebar {
+    position: -webkit-sticky; /* For Safari compatibility */
+    position: sticky;
+    top: 0; /* Adjust this value as needed */
+    height: 100vh; /* Set to the height of the viewport */
+    overflow-y: auto; /* Allows the sidebar to scroll independently of the page */
+  }
+  /* Hide the sidebar on mobile screens */
+@media (max-width: 768px) {
+    .sidebar {
+      display: none;
+    }
+  }
+  
+  /* Ensure content is centered when sidebar is not displayed */
+  @media (max-width: 768px) {
+    .content {
+      margin: 0 auto;
+      max-width: 500px; /* or whatever maximum width you prefer */
+    }
+  }
+  
