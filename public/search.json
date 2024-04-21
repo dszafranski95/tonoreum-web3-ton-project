@@ -1,9 +1,5 @@
 [
     {
-      "title": "News",
-      "path": "/news"
-    },
-    {
       "title": "Tokenomy",
       "path": "/tokenomy"
     },

@@ -44,6 +44,8 @@ export const MobileNavbar = () => {
               </button>
               {/* Mobile menu items */}
               <div className="mt-8 text-black">
+              <TonConnectButton />
+
                 <a href="/portfolio" className="block p-4 text-xl" onClick={toggleMenu}>My Portfolio</a>
                 <a href="/mine" className="block p-4 text-xl" onClick={toggleMenu}>Start Mining</a>
                 <a href="/claim" className="block p-4 text-xl" onClick={toggleMenu}>Claim your tokens</a>
@@ -54,13 +56,10 @@ export const MobileNavbar = () => {
                 <a href="/roadmap" className="block p-4 text-xl" onClick={toggleMenu}>Roadmap</a>
                 <a href="/tokenomy" className="block p-4 text-xl" onClick={toggleMenu}>Tokenomy</a>
                 <a href="/start" className="block p-4 text-xl" onClick={toggleMenu}>How to start?</a>
-                <a href="/news" className="block p-4 text-xl" onClick={toggleMenu}>News</a>
-                {/* Other links can be added here */}
+                {/* Insert TonConnectButton here */}
               </div>
             </div>
           </div>
-
-          <TonConnectButton />
         </nav>
       </header>
     </>

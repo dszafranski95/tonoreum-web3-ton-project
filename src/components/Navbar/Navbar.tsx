@@ -267,22 +267,6 @@ return (
                 <p className="mt-1 text-gray-600">Build strategic funnels that will convert</p>
               </div> 
             </div>
-            <div className="group relative flex items-center gap-x-6 rounded-lg p-4 text-sm leading-6 hover:bg-gray-50">
-              <div className="flex h-11 w-11 flex-none items-center justify-center rounded-lg bg-gray-50 group-hover:bg-white">
-              <svg className="w-6 h-6 text-gray-800 dark:text-white group-hover:text-indigo-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
-  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7h1v12a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1V5a1 1 0 0 0-1-1H5a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h11.5M7 14h6m-6 3h6m0-10h.5m-.5 3h.5M7 7h3v3H7V7Z"/>
-</svg>
-
-
-              </div>
-              <div className="flex-auto">
-                <a href="/news" className="block font-semibold text-gray-900">
-                  News
-                  <span className="absolute inset-0"></span>
-                </a>
-                <p className="mt-1 text-gray-600">Be close anything i happening.</p>
-              </div> 
-            </div>
 
           </div>
           <div className="grid grid-cols-2 divide-x divide-gray-900/5 bg-gray-50">

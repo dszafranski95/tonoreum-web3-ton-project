@@ -60,11 +60,6 @@ const LatestSection = () => {
 
   const apps = [
     {
-      name: 'News',
-      icon: 'https://source.unsplash.com/random/300x200?app',
-      link: '/news'
-    },
-    {
       name: 'Tokenomy',
       icon: 'https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90oy1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       link: '/tokenomy'

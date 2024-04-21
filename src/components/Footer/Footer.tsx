@@ -44,9 +44,6 @@ export const Footer = () => {
               Quick Links
             </h6>
             <p className="mb-4">
-              <a href="/news" className="text-gray-400 hover:text-gray-200">News</a>
-            </p>
-            <p className="mb-4">
               <a href="/tokenomy" className="text-gray-400 hover:text-gray-200">Tokenomy</a>
             </p>
             <p className="mb-4">

@@ -19,6 +19,28 @@ const Whitepaper: React.FC = () => {
        <p className="text-gray-600 text-lg">
          Within the Proof of Work framework, $TOR focuses on building infrastructure with tasks for which users can receive tokens and unique NFTs. This approach not only enriches the $TOR ecosystem but also creates additional opportunities for users to gain value, making Tonoreum an attractive project for investors looking for innovation at the intersection of blockchain technology and social communication.
        </p>
+
+       <h2 className="text-3xl font-bold text-gray-800 mt-6">Advertisement Platform</h2>
+       <p className="text-gray-600 text-lg">
+       Within the innovative framework of Tonoreum lies a transformative advertising platform designed for clients seeking to elevate the visibility of their projects and products. Tonoreum's strategic approach integrates advertisement engagement directly into the cryptocurrency mining process, forging a novel pathway for digital marketing.
+       </p>
+       <p className="text-gray-600 text-lg">
+       As a provider, Tonoreum introduces a series of daily tasks for miners—simple, swift, yet scalable. By completing these tasks, miners not only extend their mining sessions but also become conduits for promoting our clients' offerings. This dual-benefit model serves to amplify our clients' reach while enriching the miners' experience and potential earnings.
+       </p>
+       <p className="text-gray-600 text-lg">
+       The tasks, engineered to be user-friendly and efficiently integrated into the daily mining routine, will underpin a vast advertising network built upon the Tonoreum protocol. The scale of this network is poised to deliver expansive visibility for our clients, ensuring their projects resonate across a wide and engaged audience.
+       </p>
+       <p className="text-gray-600 text-lg">
+       Participation in Tonoreum's advertising network necessitates that clients purchase and subsequently 'burn' TOR tokens, thereby activating the marketing services. This requirement not only drives the utility and value of the TOR token but also aligns client investment directly with tangible advertising outcomes.
+       </p>
+
+       <p className="text-gray-600 text-lg">
+       This innovative fusion of mining and marketing represents Tonoreum's commitment to providing a full-spectrum blockchain solution. It not only incentivizes miners through a reward-rich ecosystem but also offers clients a captive audience for their marketing endeavors. Tonoreum's model is set to redefine the landscape of blockchain-based advertising, fostering growth and visibility for clients while maintaining an enriching mining environment.
+       </p>
+
+       <p className="text-gray-600 text-lg">
+       In summary Tonoreum's dual-focus platform, highlight both the advertising opportunities for clients and the integrated rewards system for miners.
+       </p>
        
        <h2 className="text-3xl font-bold text-gray-800 mt-6">Roadmap 2024</h2>
 <p className="text-gray-600 text-lg">
