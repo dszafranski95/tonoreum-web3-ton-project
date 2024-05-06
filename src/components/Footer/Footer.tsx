@@ -66,10 +66,10 @@ export const Footer = () => {
               <a href="/mine" className="text-gray-400 hover:text-gray-200">Mining Guide</a>
             </p>
             <p className="mb-4">
-              <a href="/claim" className="text-gray-400 hover:text-gray-200">Claim Rewards</a>
+              <a href="https://t.me/Tonoreum_Bot" className="text-gray-400 hover:text-gray-200">Claim Rewards</a>
             </p>
             <p className="mb-4">
-              <a href="/boosters" className="text-gray-400 hover:text-gray-200">Boosters</a>
+              <a href="https://t.me/Tonoreum_Bot" className="text-gray-400 hover:text-gray-200">Boosters</a>
             </p>
           </div>
 

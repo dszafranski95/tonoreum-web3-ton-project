@@ -46,10 +46,10 @@ export const MobileNavbar = () => {
               <div className="mt-8 text-black">
               <TonConnectButton />
 
-                <a href="/portfolio" className="block p-4 text-xl" onClick={toggleMenu}>My Portfolio</a>
+                <a href="https://t.me/Tonoreum_Bot" className="block p-4 text-xl" onClick={toggleMenu}>My Portfolio</a>
                 <a href="/mine" className="block p-4 text-xl" onClick={toggleMenu}>Start Mining</a>
-                <a href="/claim" className="block p-4 text-xl" onClick={toggleMenu}>Claim your tokens</a>
-                <a href="/boosters" className="block p-4 text-xl" onClick={toggleMenu}>Your Mining Boosters</a>
+                <a href="https://t.me/Tonoreum_Bot" className="block p-4 text-xl" onClick={toggleMenu}>Claim your tokens</a>
+                <a href="https://t.me/Tonoreum_Bot" className="block p-4 text-xl" onClick={toggleMenu}>Your Mining Boosters</a>
                 <a href="/buy-tokens" className="block p-4 text-xl" onClick={toggleMenu}>Buy Tokens</a>
                 <a href="/about" className="block p-4 text-xl" onClick={toggleMenu}>About</a>
                 <a href="/whitepaper" className="block p-4 text-xl" onClick={toggleMenu}>Whitepaper</a>

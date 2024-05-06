@@ -87,7 +87,7 @@ const LatestSection = () => {
     {
       name: 'Portfolio',
       icon: 'https://images.unsplash.com/photo-1579621970795-87facc2f976d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90oy1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-      link: '/portfolio'
+      link: 'https://t.me/Tonoreum_Bot'
     },
     {
       name: 'Mine',
@@ -97,12 +97,12 @@ const LatestSection = () => {
     {
       name: 'Claim',
       icon: 'https://images.unsplash.com/photo-1628873041000-857b83258b82?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90oy1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-      link: '/claim'
+      link: 'https://t.me/Tonoreum_Bot'
     },
     {
       name: 'Boosters',
       icon: 'https://images.unsplash.com/photo-1642525027649-00d7397a6d4a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90oy1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-      link: '/boosters'
+      link: 'https://t.me/Tonoreum_Bot'
     },
     {
       name: 'Buy Token',

@@ -75,7 +75,7 @@ return (
                                 </svg>
                             </div>
                             <div className="flex-auto">
-                            <a href="/portfolio" className="block font-semibold text-gray-900">
+                            <a href="https://t.me/Tonoreum_Bot" className="block font-semibold text-gray-900">
                                 My Portfolio
                             <span className="absolute inset-0"></span>
                             </a>
@@ -106,7 +106,7 @@ return (
 
                 </div>
                 <div className="flex-auto">
-                    <a href="/claim" className="block font-semibold text-gray-900">
+                    <a href="https://t.me/Tonoreum_Bot" className="block font-semibold text-gray-900">
                     Claim your tokens
                     <span className="absolute inset-0"></span>
                     </a>
@@ -120,7 +120,7 @@ return (
                     </svg>
                 </div>
                 <div className="flex-auto">
-                    <a href="/boosters" className="block font-semibold text-gray-900">
+                    <a href="https://t.me/Tonoreum_Bot" className="block font-semibold text-gray-900">
                     Your Mining Boosters
                     <span className="absolute inset-0"></span>
                     </a>
@@ -240,9 +240,11 @@ return (
               </div>
             </div>
             <div className="group relative flex items-center gap-x-6 rounded-lg p-4 text-sm leading-6 hover:bg-gray-50">
-            <svg className="w-6 h-6 text-gray-800 dark:text-white group-hover:text-indigo-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
-  <path d="M12 2C8.13401 2 5 5.13401 5 9c0 1.84689.634003 3.54389 1.68629 4.88086L5.43934 17.4393C5.15829 17.7204 5 18.0979 5 18.5C5 19.3284 5.67157 20 6.5 20c.40207 0 .77963-.1583 1.06066-.4393l3.55895-3.24695C11.4561 18.366 13.1531 18.9999 15 19c3.866 0 7-3.134 7-7 0-5.6234-6.7213-12.0302-7-12-.0926.0098-.1811.0305-.2676.0582-.1445.0461-.2864.119-.4254.2078-1.7402 1.1098-2.7786 2.7332-3.5304 4.3676-.1176.2554-.0531.5537.164.771l2.829 2.829c.2173.2174.5156.2818.771.164C14.2567 14.7788 15.88 13.7404 16.9898 12c.0888-.139.1617-.281.2078-.4254.0277-.0865.0484-.1749.0582-.2676C18.9698 7.7216 17.6234 2 12 2zM8.5 18.5c0-.1202.0262-.2381.0761-.3457l2.5458-2.5458C13.2119 14.3127 14.6841 14 16 14c.8133 0 1.5955.1262 2.3193.3599.1127.0365.2306.0547.3507.0547.8284 0 1.5-.6716 1.5-1.5 0-.1201-.0182-.238-.0547-.3507C19.874 10.0955 20 9.3133 20 8.5c0-1.3159-.3127-2.7881-.8929-3.879L14.8457 9.0762c-.1076.05-.2255.0761-.3457.0761-.8284 0-1.5.6716-1.5 1.5 0 .1202.0262.2381.0761.3457l2.5458 2.5458C14.2119 13.3127 14 13.6867 14 14.5c0 2.7614-2.2386 5-5 5-.8133 0-1.5955-.1262-2.3193-.3599-.1127-.0365-.2306-.0547-.3507-.0547-.8284 0-1.5.6716-1.5 1.5z"/>
+            <svg className="w-6 h-6 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m10.051 8.102-3.778.322-1.994 1.994a.94.94 0 0 0 .533 1.6l2.698.316m8.39 1.617-.322 3.78-1.994 1.994a.94.94 0 0 1-1.595-.533l-.4-2.652m8.166-11.174a1.366 1.366 0 0 0-1.12-1.12c-1.616-.279-4.906-.623-6.38.853-1.671 1.672-5.211 8.015-6.31 10.023a.932.932 0 0 0 .162 1.111l.828.835.833.832a.932.932 0 0 0 1.111.163c2.008-1.102 8.35-4.642 10.021-6.312 1.475-1.478 1.133-4.77.855-6.385Zm-2.961 3.722a1.88 1.88 0 1 1-3.76 0 1.88 1.88 0 0 1 3.76 0Z"/>
 </svg>
+
+
 
               <div className="flex-auto">
                 <a href="/tokenomy" className="block font-semibold text-gray-900">
